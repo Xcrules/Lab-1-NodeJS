@@ -1,0 +1,9 @@
+{
+  "name": "lab-1-nodejs",
+  "version": "1.0.0",
+  "description": "Lab 1 Node.js tasks",
+  "main": "calculator.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
